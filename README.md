@@ -6,7 +6,7 @@
 
 <p>Using Spring Security, <strong>Admins</strong> Can Login To "/admin" And "/user"</p>
 
-<p>Using Spring Security, <strong>Only</strong> Users Can Only Login To "/user"</p>
+<p>Using Spring Security, <strong>Users</strong> Can Only Login To "/user"</p>
 
 <p>Users Are Stored In <strong>Oracle</strong> Database</p>
 
