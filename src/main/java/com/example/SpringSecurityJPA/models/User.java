@@ -53,7 +53,7 @@ public class User {
 		this.password = password;
 	}
 	
-	public Boolean getActive() {
+	public Boolean isActive() {
 		return active;
 	}
 	
